@@ -22,3 +22,4 @@ Setup:
 7. `pip install pymysql influxdb`
 8. `python my_influxdbmigration.py`
 
+Be patient ;-). Conversion is done automatically in batches, takes a while ....
